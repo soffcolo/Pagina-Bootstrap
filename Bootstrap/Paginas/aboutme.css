@@ -1,0 +1,7 @@
+.first {
+    background-color: #F53141;
+}
+
+div [class="col"] {
+border: 1px solid #ffc107;
+}
